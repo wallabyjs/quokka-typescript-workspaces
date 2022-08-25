@@ -12,7 +12,8 @@
   "license": "ISC",
   "workspaces": [
     "packages/a",
-    "packages/b"
+    "packages/b",
+    "packages/c"
   ],
   "devDependencies": {
     "ts-node": "^10.8.1",
